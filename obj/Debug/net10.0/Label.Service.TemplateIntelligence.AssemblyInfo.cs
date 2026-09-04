@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Label.Service.TemplateIntelligence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7202594d6d995a93788e88f6979031c1701082a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Label.Service.TemplateIntelligence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Label.Service.TemplateIntelligence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

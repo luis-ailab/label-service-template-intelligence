@@ -31,3 +31,4 @@ C:\Users\lfajardo\OneDrive - Life Extension\AI-Lab\LabelCreationPlatform\Label.S
 C:\Users\lfajardo\OneDrive - Life Extension\AI-Lab\LabelCreationPlatform\Label.Service.TemplateIntelligence\obj\Debug\net10.0\Label.Service.TemplateIntelligence.pdb
 C:\Users\lfajardo\OneDrive - Life Extension\AI-Lab\LabelCreationPlatform\Label.Service.TemplateIntelligence\obj\Debug\net10.0\Label.Service.TemplateIntelligence.genruntimeconfig.cache
 C:\Users\lfajardo\OneDrive - Life Extension\AI-Lab\LabelCreationPlatform\Label.Service.TemplateIntelligence\obj\Debug\net10.0\ref\Label.Service.TemplateIntelligence.dll
+C:\Users\lfajardo\OneDrive - Life Extension\AI-Lab\LabelCreationPlatform\Label.Service.TemplateIntelligence\obj\Debug\net10.0\Label.Service.TemplateIntelligence.sourcelink.json
